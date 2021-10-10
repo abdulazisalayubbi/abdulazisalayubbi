@@ -22,7 +22,12 @@
 <p align="left">
   <a href="https://github.com/Azis202017/tracking-covid19">
      <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Azis202017&repo=tracking-covid19&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
-    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Azis202017&repo=good-sleep&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"> <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Azis202017&repo=exchange-schoolarship&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
+  </a>
+  <a href="href="https://github.com/Azis202017/good-sleep">
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Azis202017&repo=good-sleep&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Good Sleep Solusi untuk insomnia">
+  </a>
+  <a href="https://github.com/Azis202017/exchange-schoolarship">
+     <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Azis202017&repo=exchange-schoolarship&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
     
   </a> 
  
@@ -31,8 +36,6 @@
 
 ## 📕 Work With A Team
 
-<!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
-<!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 <p align="left">
   <a href="https://github.com/SwingsNFI/Project_Absen_Telkom-2"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SwingsNFI&repo=Project_Absen_Telkom-2&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats"></a>
   <a href="https://github.com/Azis202017/Project-Maritim"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Azis202017&repo=Project-Maritim&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats"></a>
