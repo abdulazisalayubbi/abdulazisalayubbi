@@ -1,3 +1,4 @@
+<img src="https://media1.giphy.com/media/E89xxATM4iZoPdr6Tb/giphy.gif?cid=790b761116a25f16afb8b424d61be67277256e1f424d0b5c&rid=giphy.gif&ct=g" width="100%" height="400"  />
 ### Hi I'm Abdul Azis Al Ayubbi 👋
 
 
@@ -28,4 +29,6 @@
 <br></br>
   <br>
   <img align="left" alt="Abdul Azis Al Ayubbi Github Stats" src="https://github-readme-stats.vercel.app/api?username=Azis202017&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
+<br><br><br><br><br>
 
+ 
