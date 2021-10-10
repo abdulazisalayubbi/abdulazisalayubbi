@@ -15,7 +15,7 @@
   📫 How to reach me: <a href="https://www.linkedin.com/in/abdul-azis-alayubbi/ 
 ">Linkedln</a><br>
   😄 Pronouns: He/Him <br>
-  ⚡ Fun fact: I spend almost 6 to reading some novel and books
+  ⚡ Fun fact: I spend almost 6 hours to reading some novel and books
   
 ## 📘 Self Project
 
