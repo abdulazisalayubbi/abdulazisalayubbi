@@ -1,4 +1,4 @@
-<img src="https://media1.giphy.com/media/E89xxATM4iZoPdr6Tb/giphy.gif?cid=790b761116a25f16afb8b424d61be67277256e1f424d0b5c&rid=giphy.gif&ct=g" width="100%" height="400"  />
+
 <h3 align="center">
   Welcome to Abdul Azis Al Ayubbi profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
