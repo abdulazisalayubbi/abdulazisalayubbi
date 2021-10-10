@@ -1,34 +1,93 @@
 <img src="https://media1.giphy.com/media/E89xxATM4iZoPdr6Tb/giphy.gif?cid=790b761116a25f16afb8b424d61be67277256e1f424d0b5c&rid=giphy.gif&ct=g" width="100%" height="400"  />
-### Hi I'm Abdul Azis Al Ayubbi 👋
+<h3 align="center">
+  Welcome to Abdul Azis Al Ayubbi profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 
-
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20and%20app%20developer;Self-taught%20UI%2FUX%20Designer;2%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=B74093Center=true&size=22"></a>
+</p>
 
 <!--  🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning Flutter 
-- 👯 I’m looking to collaborate on Ride Hailing App (Flutter)
-- 💬 Ask me about Flutter and laravel
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/abdul-azis-alayubbi/
-">Linkedln</a>
+ 🌱 I’m currently learning Flutter <br>
+  👯 I’m looking to collaborate on Ride Hailing App (Flutter) <br>
+  💬 Ask me about Flutter and laravel <br>
+  📫 How to reach me: <a href="https://www.linkedin.com/in/abdul-azis-alayubbi/ 
+">Linkedln</a><br>
+  😄 Pronouns: He/Him <br>
+  ⚡ Fun fact: I spend almost 6 to reading some novel and books
+  
+## 📘 Self Project
 
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I spend almost 6 to reading some novel and books
-
-### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Laravel" width="26px" src="https://images.ctfassets.net/23aumh6u8s0i/7gu8qd0qzmuxWWjYLhZpqo/2bb8a206fe4a86af9414545b5c25c368/laravel" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="Flutter" width="26px" src="https://pbs.twimg.com/profile_images/1141781661551665153/BMnvVd2u_400x400.jpg" />
-
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<br></br>
-  <br>
-  <img align="left" alt="Abdul Azis Al Ayubbi Github Stats" src="https://github-readme-stats.vercel.app/api?username=Azis202017&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
-<br><br><br><br><br>
-
+<p align="left">
+  <a href="https://github.com/Azis202017/tracking-covid19">
+     <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Azis202017&repo=tracking-covid19&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Azis202017&repo=good-sleep&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"> <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Azis202017&repo=exchange-schoolarship&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
+    
+  </a> 
  
+  <br/>
+</p>
+
+## 📕 Work With A Team
+
+<!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
+<!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
+<p align="left">
+  <a href="https://github.com/SwingsNFI/Project_Absen_Telkom-2"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SwingsNFI&repo=Project_Absen_Telkom-2&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats"></a>
+  <a href="https://github.com/Azis202017/Project-Maritim"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Azis202017&repo=Project-Maritim&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats"></a>
+
+</p>
+
+## 🛠️ My favorite tools
+
+### 💻 Programming languages:
+
+<p>
+   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
+   <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
+   <img alt="Dart" src="https://img.shields.io/badge/Dart-15A6C4.svg?logo=dart&logoColor=white">
+   <img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white">
+   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white">
+   <img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white">
+   <img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white">
+   
+</p>
+
+### 🧰 Frameworks and libraries
+<p>
+  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B.svg?logo=flutter&logoColor=white">
+  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white">
+  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20.svg?logo=laravel&logoColor=white">
+  
+</p>
+
+### 🗄️ Databases 
+<p>
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white">
+  <img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white">
+</p>
+
+### 💻 Software and tools
+<p>
+<img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white">
+<img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white">
+<img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
+<img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white">
+  
+</p>
+<br>
+
+
+<details> 
+  <summary>💻 GitHub Profile Stats</summary>
+  <br/>
+    <img alt="Abdul Azis Al Ayubbi github. stats" src="https://github-readme-stats.vercel.app/api/?username=Azis202017&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+ <img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azis202017&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/>
+   <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Azis202017&theme=monokai-metallian&hide_border=true"/>
+  
+ 
+  
+</details>
+
