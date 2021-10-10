@@ -5,7 +5,6 @@
 <!--  🔭 I’m currently working on ... -->
 - 🌱 I’m currently learning Flutter 
 - 👯 I’m looking to collaborate on Ride Hailing App (Flutter)
-- 🤔 I’m looking for help with Bloc documentation
 - 💬 Ask me about Flutter and laravel
 - 📫 How to reach me: <a href="www.linkedin.com/in/abdul-azis-alayubbi
 ">Linkedln</a>
