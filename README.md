@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Flutter 
 - 👯 I’m looking to collaborate on Ride Hailing App (Flutter)
 - 💬 Ask me about Flutter and laravel
-- 📫 How to reach me: <a href="www.linkedin.com/in/abdul-azis-alayubbi
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/abdul-azis-alayubbi/
 ">Linkedln</a>
 
 - 😄 Pronouns: He/Him
