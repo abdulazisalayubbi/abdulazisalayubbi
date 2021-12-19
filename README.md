@@ -93,7 +93,7 @@
     <img alt="Abdul Azis Al Ayubbi github. stats" src="https://github-readme-stats.vercel.app/api/?username=Azis202017&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
 
    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Azis202017&theme=monokai-metallian&hide_border=true"/>
-   <img alt="Abdul Azis Al Ayubbi github. Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azis202017&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/>
+   <img alt="Abdul Azis Al Ayubbi github. Status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azis202017&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/>
   
  
   
