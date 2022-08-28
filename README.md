@@ -29,11 +29,7 @@
      <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Azis202017&repo=good-sleep-app&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
     
   </a> 
-  <a href="https://github.com/Azis202017/ncov-tracking">
-     <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Azis202017&repo=ncov-tracking&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
-    
-  </a> 
- 
+
  
   <br/>
 </p>
