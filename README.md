@@ -4,18 +4,17 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20and%20app%20developer;Self-taught%20UI%2FUX%20Designer;2%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=B74093Center=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=App%20developer;2%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=B74093Center=true&size=22"></a>
 </p>
 
 <!--  🔭 I’m currently working on ... -->
  🌱 I’m currently learning Flutter <br>
   👯 I’m looking to collaborate on Ride Hailing App (Flutter) <br>
-  💬 Ask me about Flutter and laravel <br>
+  💬 Ask me about Flutter<br>
   📫 How to reach me: <a href="https://www.linkedin.com/in/abdul-azis-alayubbi/ 
 ">Linkedln</a><br>
   😄 Pronouns: He/Him <br>
-  ⚡ Fun fact: I spend almost 6 hours to reading some novel and books
-  
+ 
 ## 📘 Self Project
 
 <p align="left">
@@ -49,7 +48,6 @@
    <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
    <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
    <img alt="Dart" src="https://img.shields.io/badge/Dart-15A6C4.svg?logo=dart&logoColor=white">
-  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white">
    <img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white">
    
 </p>
@@ -58,7 +56,6 @@
 <p>
   <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B.svg?logo=flutter&logoColor=white">
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white">
-  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20.svg?logo=laravel&logoColor=white">
   
 </p>
 
