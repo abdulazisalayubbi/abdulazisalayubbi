@@ -80,7 +80,7 @@
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
    
-   <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Azis202017&theme=monokai-metallian&hide_border=true"/>
+![Azis202017's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Azis202017&theme=dracula&hide_border=true)
    <img alt="Abdul Azis Al Ayubbi github. Status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azis202017&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/>
   
  
