@@ -14,7 +14,7 @@
   📫 How to reach me: <a href="https://www.linkedin.com/in/abdul-azis-alayubbi/ 
 ">Linkedln</a><br>
   😄 Pronouns: He/Him <br>
- 
+ <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azis202017" alt="azis202017" /></a> </p>
 ## 📘 Self Project
 
 <p align="left">
