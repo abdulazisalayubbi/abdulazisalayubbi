@@ -1,20 +1,35 @@
-<h3 align="center">
+<div align="center">
+<img src="https://github.com/innng/innng/assets/26755058/5e0ce0fb-c544-4f8c-a307-5849165746d0" width="25%" align="right" />
+  <h3 align="center">
   Welcome to Abdul Azis Al Ayubbi profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
-
-<p align="center">
+  <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=App%20developer;2%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=B74093Center=true&size=22"></a>
 </p>
+  <pre>
+    💼 BSC @ UFMG • Flutter Dev • Mobile App Engineer
+   
+    🎮 Music • Games • Anime • Code • Art
+    🐾 Muffin 🐰 • Cake & Cookie & Pudim & Quindim 🐤🐥
+</pre>
 
-<!--  🔭 I’m currently working on ... -->
- 🌱 I’m currently learning Flutter <br>
-  👯 I’m looking to collaborate on Ride Hailing App (Flutter) <br>
-  💬 Ask me about Flutter<br>
-  📫 How to reach me: <a href="https://www.linkedin.com/in/abdul-azis-alayubbi/ 
-">Linkedln</a><br>
-  😄 Pronouns: He/Him <br>
- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azis202017" alt="azis202017" /></a> </p>
+<br><br>
+
+<br><br>
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+<br><br><br>
+    
+[![](https://img.shields.io/badge/linkedin-0a66c2)](http://linkedin.com/in/abdul-azis-alayubbi)
+
+</div>
+
+
+
+
+
+
+ <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdulazisalayubbi" alt="abdulazisalayubbi" /></a> </p>
 
 
 ##📘 Self Project
@@ -22,8 +37,8 @@
 <p align="left">
  
   
-  <a href="https://github.com/Azis202017/exchange-schoolarship">
-     <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Azis202017&repo=exchange-schoolarship&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
+  <a href="https://github.com/abdulazisalayubbi/exchange-schoolarship">
+     <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=abdulazisalayubbi&repo=exchange-schoolarship&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
     
   </a> 
     <a href="https://github.com/abdulazisalayubbi/good-sleep-app">
@@ -80,10 +95,10 @@
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
    
-![Azis202017's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Azis202017&theme=dracula&hide_border=true)
-   <img alt="Abdul Azis Al Ayubbi github. Status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azis202017&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/>
+![abdulazisalayubbi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdulazisalayubbi&theme=dracula&hide_border=true)
+   <img alt="Abdul Azis Al Ayubbi github. Status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulazisalayubbi&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/>
   
  
   
 </details>
-<a href="https://app.daily.dev/Azis202017"><img src="https://api.daily.dev/devcards/919fd88ea2224d6f9459ae9898b96f89.png?r=0wy" width="400" alt="Abdul Azis's Dev Card"/></a>
+<a href="https://app.daily.dev/abdulazisalayubbi"><img src="https://api.daily.dev/devcards/919fd88ea2224d6f9459ae9898b96f89.png?r=0wy" width="400" alt="Abdul Azis's Dev Card"/></a>
