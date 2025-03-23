@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/abdulazisalayubbi/abdulazisalayubbi/blob/eaaf05c278cda4641a636de96e7e3365d50a6853/4b157e6c19db6121a687034a8353ca89.jpg" width="25%" align="right" />
+<img src="https://github.com/abdulazisalayubbi/abdulazisalayubbi/blob/eaaf05c278cda4641a636de96e7e3365d50a6853/4b157e6c19db6121a687034a8353ca89.jpg" width="32%" align="right" />
   <h3 align="center">
   Welcome to Abdul Azis Al Ayubbi profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -17,8 +17,6 @@
 
 <br><br>
 
-<br><br>
-<br><br><br>
     
 
 </div>
