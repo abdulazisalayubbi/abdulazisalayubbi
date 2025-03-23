@@ -11,8 +11,7 @@
   
   <pre>
     💼 Undergraduate Telkom University  • Flutter Dev • Mobile App Engineer
-    💼 Medroyale LTD - UK (Flutter Developer)
-    
+    💼 Medroyale LTD - UK (Flutter Developer)   
     🎮 Music • Games • Anime • Code 
     🐾 Muffin 🐰 • Cake & Cookie & Pudim & Quindim 🐤🐥
   </pre>
