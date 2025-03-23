@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/abdulazisalayubbi/abdulazisalayubbi/blob/eaaf05c278cda4641a636de96e7e3365d50a6853/4b157e6c19db6121a687034a8353ca89.jpg" width="32%" align="right" />
+<img src="https://github.com/abdulazisalayubbi/abdulazisalayubbi/blob/eaaf05c278cda4641a636de96e7e3365d50a6853/4b157e6c19db6121a687034a8353ca89.jpg" width="25%" align="right" />
   <h3 align="center">
   Welcome to Abdul Azis Al Ayubbi profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -7,6 +7,8 @@
   <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=App%20developer;2%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=B74093Center=true&size=22"></a>
 </p>
+  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+  
   <pre>
     💼 Undergraduate Telkom University  • Flutter Dev • Mobile App Engineer
     🎮 Music • Games • Anime • Code 
@@ -16,10 +18,8 @@
 <br><br>
 
 <br><br>
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 <br><br><br>
     
-[![](https://img.shields.io/badge/linkedin-0a66c2)](http://linkedin.com/in/abdul-azis-alayubbi)
 
 </div>
 
