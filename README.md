@@ -11,7 +11,7 @@
   
   <pre>
     💼 Undergraduate Telkom University  • Flutter Dev • Mobile App Engineer
-    🎮 Music • Games • Anime • Code 
+    🎮 Music  • Anime • Code 
     🐾 Muffin 🐰 • Cake & Cookie & Pudim & Quindim 🐤🐥
   </pre>
 
