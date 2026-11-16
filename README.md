@@ -1,6 +1,6 @@
 <div align="center">
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/dark/hero.svg" /><img src="./assets/light/hero.svg" alt="Abdul Azis Al Ayubbi — Senior Flutter Developer at Medroyale. Jakarta, Indonesia · Telkom University" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/dark/hero.svg" /><img src="./assets/light/hero.svg" alt="Abdul Azis Al Ayubbi — Senior Flutter Developer at MedRoyale. Jakarta, Indonesia · Telkom University" /></picture>
 
 <p>
   <a href="https://linkedin.com/in/abdul-azis-alayubbi"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/dark/btn-linkedin.svg" /><img src="./assets/light/btn-linkedin.svg" alt="LinkedIn" /></picture></a>
@@ -21,7 +21,7 @@ class AbdulAzis extends StatelessWidget {
   Widget build(BuildContext context) {
     return const Developer(
       role: 'Senior Flutter Developer',
-      company: 'Medroyale',
+      company: 'MedRoyale',
       location: 'Jakarta, Indonesia 🇮🇩',
       education: 'Telkom University',
       mainStack: ['Flutter', 'Dart', 'Swift', 'SwiftUI'],
