@@ -117,12 +117,6 @@ class AbdulAzis extends Developer {
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulazisalayubbi&bg_color=1F222E&color=FFFFFF&line=F85D7F&point=FFFFFF&area=true&area_color=F85D7F&hide_border=true&radius=8" width="100%" alt="Contribution graph" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdulazisalayubbi/abdulazisalayubbi/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdulazisalayubbi/abdulazisalayubbi/output/github-snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/abdulazisalayubbi/abdulazisalayubbi/output/github-snake.svg" />
-</picture>
-
 </div>
 
 ---
