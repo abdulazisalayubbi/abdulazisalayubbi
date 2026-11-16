@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F222E,50:7B3F61,100:F85D7F&height=200&section=header&text=Abdul%20Azis%20Al%20Ayubbi&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Mobile%20Engineer%20%E2%80%A2%20Flutter%20%26%20Swift&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:1F222E,50:7B3F61,100:F85D7F&height=200&section=header&text=Abdul%20Azis%20Al%20Ayubbi&fontSize=48&fontColor=ffffff&fontAlignY=32&animation=fadeIn" width="100%" alt="header" />
 
 <a href="https://github.com/abdulazisalayubbi">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F85D7F&center=true&vCenter=true&width=520&lines=Hi+there%2C+I'm+Azis+%F0%9F%91%8B;Flutter+%26+iOS+(SwiftUI)+Developer;Building+apps+people+enjoy+using;Always+learning+something+new+%E2%9C%A8" alt="Typing SVG" />
@@ -125,6 +125,6 @@ class AbdulAzis extends Developer {
 
 **Thanks for stopping by! Feel free to reach out if you'd like to build something together.** 🤝
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F85D7F,50:7B3F61,100:1F222E&height=110&section=footer" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:F85D7F,50:7B3F61,100:1F222E&height=110&section=footer" width="100%" alt="footer" />
 
 </div>
