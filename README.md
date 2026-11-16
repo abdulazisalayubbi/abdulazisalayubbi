@@ -1,101 +1,136 @@
 <div align="center">
-<img src="https://github.com/abdulazisalayubbi/abdulazisalayubbi/blob/eaaf05c278cda4641a636de96e7e3365d50a6853/4b157e6c19db6121a687034a8353ca89.jpg" width="35%" align="right" />
-  <h3 align="center">
-  Welcome to Abdul Azis Al Ayubbi profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
-  <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=App%20developer;2%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=B74093Center=true&size=22"></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F222E,50:7B3F61,100:F85D7F&height=200&section=header&text=Abdul%20Azis%20Al%20Ayubbi&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Mobile%20Engineer%20%E2%80%A2%20Flutter%20%26%20Swift&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="header" />
+
+<a href="https://github.com/abdulazisalayubbi">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F85D7F&center=true&vCenter=true&width=520&lines=Hi+there%2C+I'm+Azis+%F0%9F%91%8B;Flutter+%26+iOS+(SwiftUI)+Developer;Building+apps+people+enjoy+using;Always+learning+something+new+%E2%9C%A8" alt="Typing SVG" />
+</a>
+
+<p>
+  <a href="https://azis202017.github.io/portofolio/"><img src="https://img.shields.io/badge/Portfolio-F85D7F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/abdul-azis-alayubbi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://app.daily.dev/abdulazisalayubbi"><img src="https://img.shields.io/badge/daily.dev-1F222E?style=for-the-badge&logo=dailydotdev&logoColor=white" alt="daily.dev" /></a>
+  <img src="https://img.shields.io/badge/Open%20to%20work-2EA043?style=for-the-badge&logo=handshake&logoColor=white" alt="Open to work" />
 </p>
-  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
-  
-  <pre>
-    💼 Undergraduate Telkom University  • Flutter Dev • Mobile App Engineer
-    🎮 Music  • Anime • Code • Flutter 
-    🐾 Muffin 🐰 • Cake & Cookie & Pudim & Quindim 🐤🐥
-  </pre>
 
-<br><br>
-
-    
+<img src="https://komarev.com/ghpvc/?username=abdulazisalayubbi&label=Profile%20views&color=F85D7F&style=flat-square" alt="profile views" />
 
 </div>
 
+---
 
+## 🧑‍💻 About me
 
+<img src="./4b157e6c19db6121a687034a8353ca89.jpg" width="230" align="right" alt="avatar" />
 
+```dart
+class AbdulAzis extends Developer {
+  final String location   = 'Jakarta, Indonesia 🇮🇩';
+  final String education  = 'Telkom University';
+  final String role       = 'Mobile App Engineer';
 
+  final List<String> mainStack = ['Flutter', 'Dart', 'Swift', 'SwiftUI'];
+  final List<String> alsoUse   = ['Laravel', 'PHP', 'JavaScript', 'Next.js'];
 
- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdulazisalayubbi" alt="abdulazisalayubbi" /></a> </p>
+  final List<String> currentlyLearning = ['DevOps', 'CI/CD', 'Clean Architecture'];
 
+  final List<String> hobbies = ['Music 🎧', 'Anime 🎌', 'Coding 💻'];
+  final String pet           = 'Muffin 🐰';
+  final List<String> snacks  = ['Cake', 'Cookies', 'Pudim', 'Quindim'];
 
-##📘 Self Project
+  @override
+  String get motto => 'Ship it, learn from it, make it better.';
+}
+```
 
-<p align="left">
- 
-  
-  <a href="https://github.com/abdulazisalayubbi/exchange-schoolarship">
-     <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=abdulazisalayubbi&repo=exchange-schoolarship&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
-    
-  </a> 
-    <a href="https://github.com/abdulazisalayubbi/good-sleep-app">
-     <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=abdulazisalayubbi&repo=good-sleep-app&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
-    
-  </a> 
+<br clear="right" />
 
- 
-  <br/>
+## 🛠️ Tech stack
+
+<p align="center">
+  <b>Mobile</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,swift,kotlin,java,androidstudio,xcode&perline=7" alt="mobile" />
 </p>
 
-## 📕 Work With A Team
-
-<p align="left">
-  <a href="https://github.com/SwingsNFI/Project_Absen_Telkom-2"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SwingsNFI&repo=Project_Absen_Telkom-2&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats"></a>
-  
+<p align="center">
+  <b>Web &amp; backend</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=laravel,php,js,ts,react,nextjs,html,css,python&perline=9" alt="web" />
 </p>
 
-## 🛠️ My favorite tools
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/abdul-azis-alayubbi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdul-azis-alayubbi" height="30" width="40" /></a>
+<p align="center">
+  <b>Data &amp; tools</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=firebase,mysql,sqlite,git,github,githubactions,vscode,postman,figma&perline=9" alt="tools" />
 </p>
 
-<h3 align="left">Skillsh3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+## 🚀 Featured projects
 
-### 🧰 Frameworks and libraries
-<p>
-  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B.svg?logo=flutter&logoColor=white">
-  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white">
-  
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💸 <a href="https://github.com/abdulazisalayubbi/montra">Montra</a></h3>
+      <p>Expense tracker app to record, manage and monitor your spending, built from the Montra UI kit.</p>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏥 <a href="https://github.com/abdulazisalayubbi/MedCare">MedCare</a></h3>
+      <p>Healthcare iOS app in SwiftUI with its own <a href="https://github.com/abdulazisalayubbi/MedcareBackend">Laravel backend</a>.</p>
+      <img src="https://img.shields.io/badge/SwiftUI-F05138?style=flat-square&logo=swift&logoColor=white" />
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🥗 <a href="https://github.com/abdulazisalayubbi/Easy-Gizi">Easy Gizi</a></h3>
+      <p>Nutrition app with online consultations with nutritionists, daily intake reminders, events and a BMI calculator.</p>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛵 <a href="https://github.com/abdulazisalayubbi/mojol">Mojol</a></h3>
+      <p>Ride-hailing app built with Flutter.</p>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>😴 <a href="https://github.com/abdulazisalayubbi/good-sleep-app">Good Sleep</a></h3>
+      <p>Music player with songs to help you fall asleep, designed in Figma first.</p>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎓 <a href="https://github.com/abdulazisalayubbi/exchange-schoolarship">Scholarship App</a></h3>
+      <p>Android app for scholarship registration, using a Laravel API and Volley.</p>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
-### 🗄️ Databases 
-<p>
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white">
-  <img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white">
-</p>
+## 📊 GitHub activity
 
-### 💻 Software and tools
-<p>
-<img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white">
-<img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white">
-<img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
-<img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white">
-  
-</p>
-<br>
+<div align="center">
 
+<img src="https://streak-stats.demolab.com?user=abdulazisalayubbi&theme=dark&hide_border=true&background=1F222E&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F&sideLabels=FFFFFF&dates=9E9E9E&currStreakNum=FFFFFF&sideNums=FFFFFF" width="70%" alt="GitHub streak" />
 
-<details> 
-  <summary>💻 GitHub Profile Stats</summary>
-  <br/>
-   
-![abdulazisalayubbi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdulazisalayubbi&theme=dracula&hide_border=true)
-   <img alt="Abdul Azis Al Ayubbi github. Status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulazisalayubbi&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/>
-  
- 
-  
-</details>
-<a href="https://app.daily.dev/abdulazisalayubbi"><img src="https://api.daily.dev/devcards/919fd88ea2224d6f9459ae9898b96f89.png?r=0wy" width="400" alt="Abdul Azis's Dev Card"/></a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulazisalayubbi&bg_color=1F222E&color=FFFFFF&line=F85D7F&point=FFFFFF&area=true&area_color=F85D7F&hide_border=true&radius=8" width="100%" alt="Contribution graph" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdulazisalayubbi/abdulazisalayubbi/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdulazisalayubbi/abdulazisalayubbi/output/github-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/abdulazisalayubbi/abdulazisalayubbi/output/github-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+**Thanks for stopping by! Feel free to reach out if you'd like to build something together.** 🤝
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F85D7F,50:7B3F61,100:1F222E&height=110&section=footer" width="100%" alt="footer" />
+
+</div>
