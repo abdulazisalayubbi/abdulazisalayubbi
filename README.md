@@ -34,10 +34,6 @@ class AbdulAzis extends Developer {
 
   final List<String> currentlyLearning = ['DevOps', 'CI/CD', 'Clean Architecture'];
 
-  final List<String> hobbies = ['Music 🎧', 'Anime 🎌', 'Coding 💻'];
-  final String pet           = 'Muffin 🐰';
-  final List<String> snacks  = ['Cake', 'Cookies', 'Pudim', 'Quindim'];
-
   @override
   String get motto => 'Ship it, learn from it, make it better.';
 }
@@ -62,52 +58,39 @@ class AbdulAzis extends Developer {
   <img src="https://skillicons.dev/icons?i=firebase,mysql,sqlite,git,github,githubactions,vscode,postman,figma&perline=9" alt="tools" />
 </p>
 
-## 🚀 Featured projects
+## 🎮 Fun corner
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>💸 <a href="https://github.com/abdulazisalayubbi/montra">Montra</a></h3>
-      <p>Expense tracker app to record, manage and monitor your spending, built from the Montra UI kit.</p>
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+    <td width="50%" valign="top" align="center">
+      <h3>🐰 Meet Muffin</h3>
+      <p>My bunny and chief morale officer.<br/>Bugs get fixed faster with Muffin around.</p>
     </td>
-    <td width="50%" valign="top">
-      <h3>🏥 <a href="https://github.com/abdulazisalayubbi/MedCare">MedCare</a></h3>
-      <p>Healthcare iOS app in SwiftUI with its own <a href="https://github.com/abdulazisalayubbi/MedcareBackend">Laravel backend</a>.</p>
-      <img src="https://img.shields.io/badge/SwiftUI-F05138?style=flat-square&logo=swift&logoColor=white" />
-      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🥗 <a href="https://github.com/abdulazisalayubbi/Easy-Gizi">Easy Gizi</a></h3>
-      <p>Nutrition app with online consultations with nutritionists, daily intake reminders, events and a BMI calculator.</p>
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>🛵 <a href="https://github.com/abdulazisalayubbi/mojol">Mojol</a></h3>
-      <p>Ride-hailing app built with Flutter.</p>
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+    <td width="50%" valign="top" align="center">
+      <h3>🍰 Dessert tier list</h3>
+      <p>
+        🥇 Cake &nbsp;·&nbsp; 🥈 Cookies<br/>
+        🥉 Pudim &nbsp;·&nbsp; 🏅 Quindim
+      </p>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3>😴 <a href="https://github.com/abdulazisalayubbi/good-sleep-app">Good Sleep</a></h3>
-      <p>Music player with songs to help you fall asleep, designed in Figma first.</p>
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+    <td width="50%" valign="top" align="center">
+      <h3>🎌 Anime</h3>
+      <p>The witch in my avatar is Elaina from<br/><i>Wandering Witch: The Journey of Elaina</i> 🧙‍♀️</p>
     </td>
-    <td width="50%" valign="top">
-      <h3>🎓 <a href="https://github.com/abdulazisalayubbi/exchange-schoolarship">Scholarship App</a></h3>
-      <p>Android app for scholarship registration, using a Laravel API and Volley.</p>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+    <td width="50%" valign="top" align="center">
+      <h3>🎧 Music</h3>
+      <p>Always playing while I code.<br/>No music, no build. 🎶</p>
     </td>
   </tr>
 </table>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" alt="kyubey" />
+  <br/><br/>
+  <img src="https://readme-jokes.vercel.app/api?theme=dark&bgColor=%231F222E&textColor=%23FFFFFF&aColor=%23F85D7F&borderColor=%23F85D7F&hideBorder=true" alt="Random dev joke" />
+</div>
 
 ## 📊 GitHub activity
 
